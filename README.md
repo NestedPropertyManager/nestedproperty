@@ -1,5 +1,4 @@
 # nestedproperty
-a property management desktop application
 NESTED PROPERTY MANAGEMENT DESCRIPTION
 Nested property manager(PM) is a fully integrated real estate management system. It provides a single platform for interaction of the property owner, the property manager and the tenants . It allows a user to enter and maintain all information pertaining to a given estate.  All transactions including registration on new properties, new tenants, rent payment, maintenance services and campaign tracking activities are handled within the same system.
 Nested property manager is a graphical, web and mobile based real estate management solution. All work in this application can be handled in browser windows. You can open multiple windows to execute multiple tasks. It contains standard functions expected of a computer program in regards to functionality and structure. Additionally it fulfils all requirements of a real estate solution by proving many tools for entering and managing information.
