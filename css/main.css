@@ -1,0 +1,75 @@
+body{
+	padding-top:50px;
+}
+#navslice{
+    background:#555550;
+	color:#000000;	
+}
+#headerwrapper{
+	position:relative;
+	padding:0;
+	margin:0;
+	overflow:hidden;
+	height:200px;
+	background-image:url(../images/products/fashions.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 320px;
+    background-position:top center;
+    background-attachment: fixed;	
+} 
+#logotext{
+	position:absolute;
+	width: 100%;
+	height: 180px;
+	background-image: url(../images/text.png);
+	background-repeat: no-repeat;
+	background-position: center;
+    background-size: 70% 180px;
+    top: 50%;	
+	margin-top: -90px;
+}
+#fore-flower{
+	position:absolute;
+	width: 100%;
+	height: 400px;
+	background-image: url(../images/text.png);
+	background-repeat: no-repeat;
+	background-position: right bottom;
+    background-size: auto 400px;
+    top: 525xpx;	
+	right: -50px;
+}
+#back-flower{
+	position:absolute;
+	width: 100%;
+	height: 350px;
+	background-image: url(../images/text.png);
+	background-repeat: no-repeat;
+	background-position: left bottom;
+    background-size: auto 350px;
+    top: 525px;	
+	right: -50px;
+}
+
+.img-thumb{
+	width: auto;
+	height: 150px;
+	
+}
+#footer{
+    margin-top: 50px;	
+}
+img.details{
+	width: 33%;
+	height: 15px auto;
+}
+
+
+
+
+
+
+
+
+
+
